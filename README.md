@@ -17,20 +17,34 @@ I'm Mohamad Fardin Rais, usually known as **Gyoo**.
 
 ## 💻 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🚀 Currently Learning
 
+- Python
 - Programming
 - Git & GitHub
-- JavaScript
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Fardinn&show_icons=true&theme=tokyonight)
+
+---
+
+## 📮 Contact
+
+[![Instagram](https://img.shields.io/badge/Instagram-@mf4rdinn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mf4rdinn/)
+
+---
+
+## 🎯 Goals
+
+- 🌱 Improve my programming skills
+- 🛠️ Build personal projects and useful tools
+- 🐍 Become confident in Python
+- 🤝 Learn and contribute to open source someday
