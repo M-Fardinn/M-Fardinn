@@ -2,10 +2,6 @@
 
 <img src="https://media.gifdb.com/anime-rain-no-face-5tbtqtesfsqkyxa9.gif" width="500">
 
-</div>
-
-<div align="center">
-
 # Hello there 👋 | I'm Mohamad Fardin Rais
 
 </div>
