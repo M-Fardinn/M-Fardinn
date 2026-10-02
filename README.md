@@ -1,6 +1,7 @@
 <div align="center">
+  <img width="480" height="259" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g0a2JqejVnN3JmbWpnM3Q4Y2lwa2RtbWRyeHg3a2duMjl4NW5iYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NnMH7LDpZTPZS/giphy.gif" />
 
-<img src="./anime.gif" width="500">
+</div>
 
 # Hello there 👋 | I'm Mohamad Fardin Rais
 
