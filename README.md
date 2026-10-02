@@ -3,7 +3,7 @@
 
 </div>
 
-# Hello there 👋 | I'm Mohamad Fardin Rais
+# Hello there 👋 | I'mMGyoo
 
 </div>
 
