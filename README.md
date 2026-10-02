@@ -3,7 +3,7 @@
 
 </div>
 
-# Hello there 👋 | I'mMGyoo
+# Hello there 👋 | I'm Gyoo
 
 </div>
 
