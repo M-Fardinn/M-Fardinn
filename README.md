@@ -14,7 +14,7 @@
 I'm Mohamad Fardin Rais, usually known as **Gyoo**.
 
 - 🎓 I'm currently studying at **Universitas Gunadarma**.
-- 👨‍💻 Currently learning the basics of programming and web development.
+- 👨‍💻 Currently learning the basics of programming. 
 
 ---
 
