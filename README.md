@@ -11,7 +11,7 @@
 
 ## 🧑 About Me
 
-I'm Mohamad Fardin Rais, usually known as **Gyoo**.
+I'm Fardin, usually known as **Gyoo**.
 
 - 🎓 I'm currently studying at **Universitas Gunadarma**.
 - 👨‍💻 Currently learning the basics of programming. 
